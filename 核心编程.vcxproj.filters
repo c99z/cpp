@@ -48,8 +48,13 @@
     <ClCompile Include="11 函数调用运算符重载.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="12 动态多态.cpp">
+    <ClCompile Include="person.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="person.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
